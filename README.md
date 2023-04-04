@@ -1,1 +1,5 @@
 # python-api-challenge
+In this challenge I pulled data from api's and then created dataframes. I then used the data to create scatterplots. After that I split the data into northern and southern hemispheres and then created a function to run a linear regression on all the previous scatterplots in the new format of northern and southern hemispheres. In the Vacatations challenge I used geoviews to map out the data onto their respective latitude and longitude points, and sized the points by humidity of that city. I then cleaned the data and put in my ideal weather choices to find hotels nearest to those points. I then used the geoapify api and found the nearest hotel within 10000 meters of the location. I then plotted those locations on the map and added in the hotels and country into each points hover bar.
+
+In the WeatherPy folder you will find the code for both WeatherPy and VacationPy.
+In the Output_Data folder you will find the csv file formed from WeatherPy and the first 4 scatterplots from WeatherPy.
